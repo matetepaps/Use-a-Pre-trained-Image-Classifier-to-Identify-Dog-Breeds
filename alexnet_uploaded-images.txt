@@ -1,0 +1,17 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 4 key-value pairs.
+Below are 4 of them:
+ 1 key:             Red_plastic_01.jpg  label:                          r
+ 2 key:              White_lion_01.jpg  label:                          w
+ 3 key:                     Dog_02.jpg  label:                          d
+ 4 key:                     Dog_01.jpg  label:                          d
+
+     MATCH:
+
+ NOT A MATCH:
+
+# Total Images 0 # Matches: 0 # NOT Matches: 0
